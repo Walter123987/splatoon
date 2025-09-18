@@ -1,0 +1,45 @@
+body {
+    background-image: url('banner.jpg');
+    background-size: cover;
+}
+
+.welcome {
+    background-color: aquamarine;
+    width: 310px;
+    padding: 10px;
+    margin-left: 900px;
+    border: 2px solid;
+    text-align: center;
+}
+.next {
+    background-color: aquamarine;
+    width: 310px;
+    padding: 10px;
+    margin-left: 900px;
+    border: 2px solid;
+    text-align: center;
+}
+.next1 {
+    background-color: aquamarine;
+    width: 310px;
+    padding: 10px;
+    margin-left: 900px;
+    border: 2px solid;
+    text-align: center;
+}
+.next2 {
+    background-color: aquamarine;
+    width: 310px;
+    padding: 10px;
+    margin-left: 900px;
+    border: 2px solid;
+    text-align: center;
+}
+.next-page {
+    background-color: aquamarine;
+    width: 80px;
+    padding: 2px;
+    margin: auto;
+    border: 2px solid;
+    text-align: center;
+}
