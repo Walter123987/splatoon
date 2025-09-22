@@ -39,6 +39,8 @@ body {
     border: solid black;
 }
 .next-page {
+    position: fixed;
+    bottom: 20px;
     background-color: #19D719;
     width: 80px;
     padding: 2px;
