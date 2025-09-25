@@ -49,3 +49,12 @@ body {
     margin: 10px;
     margin-bottom: 10px;
 }
+a:link {
+    color: #F02D7D;
+}
+a:hover {
+    color: #F02D7D;
+}
+a:visited {
+    color: #F02D7D;
+}
