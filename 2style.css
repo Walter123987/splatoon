@@ -17,8 +17,10 @@ body {
     height: 250px;
     justify-content: space-evenly;   
 }
-.image1 {
+.picture1 img {
     padding-top: 90px;
+    width: 200px;
+    height: 150px;
 }
 .text {
     display: flex;
@@ -49,6 +51,11 @@ body {
     margin: 10px;
     margin-bottom: 10px;
 }
+.picture img{
+    width: 500px;
+    height: 300px;
+}
+
 a:link {
     color: #F02D7D;
 }
